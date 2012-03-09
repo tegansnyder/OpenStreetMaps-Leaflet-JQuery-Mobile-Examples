@@ -1,0 +1,8 @@
+Map Cluster example using Leaflet from Cloudmade plus a hack from sergey-rossokha called MapCluster
+
+http://leaflet.cloudmade.com/
+https://github.com/sergey-rossokha/MapClusterer
+
+The example I provide uses JQuery Mobile
+
+Note: MapCluster hack is using an older version of Leaflet than what is currently on their site
